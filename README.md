@@ -1,13 +1,14 @@
 <h1 align="center"> 
-  Prova Finale di Ingegneria del Software - A.A. 2021/22
+  Software Engineering I - Final Project  - A.A. 2021/22
 </h1>
 <h3 align="center">
   Prof. Alessandro Margara - Politecnico di Milano
 </h3>
 <h4 align="center">
-  Gruppo AM19
+  Group:  AM19
 </h4>
 
+<b>Grade: </b> 30/30
 ### Members:
 * #### Laura Colazzo ([@lauracolazzo](https://github.com/lauracolazzo)) <br>laura.colazzo@mail.polimi.it
 * #### Dennis De Maria ([@dennydemaria](https://github.com/dennydemaria)) <br>dennis.demaria@mail.polimi.it
